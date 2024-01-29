@@ -97,5 +97,3 @@ bSkipMovies=False
 +MapsToCook=(FilePath="/Game/Maps/Lobby")
 +MapsToCook=(FilePath="/Game/Maps/GameStartup")
 
-[/Script/Engine.GameSession]
-MaxPlayers=100
